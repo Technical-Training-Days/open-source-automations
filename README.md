@@ -1,1 +1,1 @@
-# open-source-automations
+# Open Source Automations
